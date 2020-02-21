@@ -2,7 +2,7 @@
 A tic-tac-toe game build with react.js
 
 
-## future Enhancements
+## Future Enhancements
 - styles and layout
 - dark mode
 - leaderboards
