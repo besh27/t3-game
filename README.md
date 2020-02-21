@@ -7,4 +7,4 @@ A tic-tac-toe game build with react.js
 - dark mode
 - leaderboards
 
-You can play this game at: https://epic-mccarthy-19cacb.netlify.com
+You can play this game at: https://t3-game.netlify.com/
